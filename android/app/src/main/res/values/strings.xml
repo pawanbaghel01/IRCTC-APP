@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test2fblogin</string>
+    <string name="facebook_app_id">843141203910057</string>
+    <string name="fb_login_protocol_scheme">fb_your_facebook_app_id</string>
+    <string name="facebook_client_token">9ce9049d4e804fe0d95ad37562fd91a8</string>
+</resources>

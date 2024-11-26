@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993161400692",
+    "project_id": "test2project-49ae3",
+    "storage_bucket": "test2project-49ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993161400692:android:176477b25cc5d89b569c21",
+        "android_client_info": {
+          "package_name": "com.example.pawan_test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt7WcVkXLqFzHq3Hq41oERdzB4fyTyjrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
